@@ -3,7 +3,7 @@ import Section2HeroText from "./Section2HeroText";
 
 const Video = () => {
   return (
-    <div className=" relative h-screen md:h-[calc(100vh_-_72px)] overflow-hidden ">
+    <div className=" relative h-screen md:h-[calc(100vh_-_72px)]  overflow-hidden ">
       <video
         autoPlay
         loop
