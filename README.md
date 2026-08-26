@@ -24,3 +24,47 @@ While building this project, I got more comfortable with:
 * Building modern website layouts
 * Improving my frontend development skills
 
+## Running the Project
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/nike-clone.git
+```
+
+Go into the project folder:
+
+```bash
+cd nike-clone
+```
+
+Install the dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## About the Project
+
+This is a **learning project**, not an official Nike website. I built it as an engineering student to practice React and understand how real e-commerce websites are structured.
+
+## Future Plans
+
+I plan to improve the project by adding things like:
+
+* Product search
+* Product filtering
+* Shopping cart functionality
+* Product details page
+* Login/signup
+* Backend integration
+* Payment functionality
+
+More improvements will be added as I continue learning and building.
+
